@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int sensor_reading = 100;
+    int sensor_reading = 250;
     int* ptr = &sensor_reading;
 
     cout << "Value: " << sensor_reading << endl;
